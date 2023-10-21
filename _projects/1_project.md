@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Pesticide Detection Device
+description: An Innovative device for the qualitative detection of pesticide in fruits and vegetables.
 img: assets/img/12.jpg
 importance: 1
 category: work
